@@ -9,3 +9,9 @@ The flutter based app to control rainbow (currently being developed along with
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+## Status
+
+Currently the app can:
+
+* Find Rainbow devices on the network. (Android only atm)
